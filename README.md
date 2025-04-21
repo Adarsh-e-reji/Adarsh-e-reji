@@ -16,12 +16,13 @@ Let’s connect and build something amazing! 🚀
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-e-reji&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adarsh-e-reji&theme=react-dark" alt="GitHub Activity Graph">
+  </a>
 </p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Adarsh-e-reji&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-e-reji-0989911b7/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adarshereji121@gmail.com) 
