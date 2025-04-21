@@ -16,8 +16,6 @@ Let’s connect and build something amazing! 🚀
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh-e-reji&theme=dark&hide_border=false" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- This adds space -->
   <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-e-reji&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
